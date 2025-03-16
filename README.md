@@ -1,2 +1,3 @@
-# stunning-fiesta
-This is a repository made for testing and learning on Coursera
+PollyGlot/ ├── pycache/ # Compiled Python files ├── node_modules/ # Dependencies for the React frontend ├── public/ # Public assets for the React app ├── src/ # Main source code for the React frontend │ ├── assets/
+│ ├── App.jsx │ ├── Footer.jsx │ ├── Header.jsx │ ├── MainContent.jsx │ └── main.jsx ├── venv/ # Python virtual environment for Flask ├── .dockerignore ├── .gitignore ├── Dockerfile # Instructions for building a Docker image ├── eslint.config.js # ESLint configuration for React code ├── index.html # Root HTML file for the React app ├── package-lock.json ├── package.json ├── parrot.png # Example image or logo ├── requirements.txt # Python dependencies ├── server.cpython-313.pyc # Compiled Python server code └── vite.config.js # Vite configuration for the React app
+
